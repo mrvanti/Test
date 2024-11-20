@@ -2,6 +2,4 @@
 
 ## This is more markdown
 
-__Fet text__
-
-_kursiv text_
+### This is third
